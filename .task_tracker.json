@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'A notes app allowing users to create, edit, and organize notes.', 'containers': [{'container_name': 'notes_app_ui', 'platform': 'mobile', 'framework': 'kotlin', 'description': 'Frontend mobile application for creating, editing, and viewing notes.', 'interfaces': 'App UI for user interaction, local device storage', 'workspace': 'notes_app_ui_workspace', 'container_root': 'notes_app_ui_workspace/notes_app_ui', 'dependencies': [], 'container_type': 'mobile', 'container_details': {'features': ['Create notes', 'Edit notes', 'Delete notes', 'List and search notes', 'Organize notes by categories'], 'colors': {'primary': '#2D5BFF', 'secondary': '#F2F6FC', 'accent': '#FF9800'}, 'theme': 'light', 'layout_description': 'Single-column mobile layout with top app bar, floating action button for adding notes, and a scrollable list for note entries.', 'style': 'modern, minimalistic'}}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}

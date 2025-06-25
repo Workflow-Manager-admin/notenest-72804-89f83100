@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2D5BFF</color>
+    <color name="accent">#FF9800</color>
+    <color name="secondary">#F2F6FC</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="category_personal">#FF9800</color>
+    <color name="category_work">#2D5BFF</color>
+    <color name="category_ideas">#01796F</color>
+    <color name="secondaryText">#9A9FA7</color>
+</resources>
